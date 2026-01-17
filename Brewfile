@@ -27,3 +27,9 @@ cask "iterm2"
 cask "docker"
 cask "postman"
 cask "jetbrains-toolbox"
+
+# Python build deps
+brew "openssl@3"
+brew "readline"
+brew "zlib"
+brew "xz"
